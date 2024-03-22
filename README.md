@@ -6,7 +6,9 @@
 
 - 총 소요기간은 2023-02-01 ~ 2023-02-15 까지로 총 2주입니다.
 
+[HelloDD_기획안.pptx](https://github.com/uiseokgeem/Hello_DD_Project/files/14715367/HelloDD_.pptx)
 
+[HelloDD_포트폴리오.pptx](https://github.com/uiseokgeem/Hello_DD_Project/files/14715368/HelloDD_.pptx)
 
 ## Dataset 특징
  
