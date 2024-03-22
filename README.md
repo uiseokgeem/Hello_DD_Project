@@ -5,10 +5,12 @@
 - 본 프로젝트는 Linux Ubuntu WSL2 환경에서 Python 을 사용하여 제작되었습니다. 
 
 - 총 소요기간은 2023-02-01 ~ 2023-02-15 까지로 총 2주입니다.
+  
+[HelloDD_포트폴리오.pdf](https://github.com/uiseokgeem/Hello_DD_Project/files/14715405/HelloDD_.pdf)
 
-[HelloDD_기획안.pptx](https://github.com/uiseokgeem/Hello_DD_Project/files/14715367/HelloDD_.pptx)
+[HelloDD_기획안.pdf](https://github.com/uiseokgeem/Hello_DD_Project/files/14715412/HelloDD_.pdf)
 
-[HelloDD_포트폴리오.pptx](https://github.com/uiseokgeem/Hello_DD_Project/files/14715368/HelloDD_.pptx)
+
 
 ## Dataset 특징
  
